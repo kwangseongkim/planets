@@ -1,2 +1,4 @@
 sfdasfd
-different line
+Line added from both.
+
+
